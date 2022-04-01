@@ -9,7 +9,7 @@ Repositorio con los archivos del proyecto para la materia de Análisis y Diseño
 - Paulina Garza Allende
 
 ## Entregable 1: Entregables de UX
-Todos los archivos del primer entregable se encuentran en la carpeta `..\entregables-ux\`. Los archivos son:
+Todos los archivos del primer entregable se encuentran en la carpeta `entregables-ux/`. Los archivos son:
 - `escenarios.md`: archivo con 3 escenarios de distintas personas
 - `customer-journey.pdf`: archivo con el Customer Journey dibujado a mano
 - `persona-1.png`: Imagen de la Persona 1
