@@ -9,11 +9,12 @@ Supimos que funcionaban nuestras pantallas porque se encontraban dentro del rang
 
 ## Fase 1
 Rango: 2-3 clics
-Promedio: 
+Promedio: 2 clics
 
 ## Fase 2
 Rango: 2-6 clics
-Promedio
+Promedio: 4 clics
 
 ## Fase 3
 Rango: 2-6 clics
+Promedio: 4 clics
