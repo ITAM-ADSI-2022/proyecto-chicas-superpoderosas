@@ -1,4 +1,4 @@
-# Proyecto: Chicas superpoderosas y Mojojo
+# Proyecto: Chicas Superpoderosas y Mojo Jojo
 
 Repositorio con los archivos del proyecto para la materia de Análisis y Diseño de Sistemas de Información
 
