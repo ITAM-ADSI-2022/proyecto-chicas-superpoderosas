@@ -20,3 +20,6 @@ Todos los archivos del primer entregable se encuentran en la carpeta `entregable
 El segundo entregable se encuentran en la carpeta `entregable-prototipo/`. Los archivos son:
 - `Prototipo.md`: contiene la liga al prototipo y las instrucciones a seguir
 - `Pruebas.md`: Descrippción de las pruebas realizadas y sus resultados
+
+## Entregable 3: Backlog y Priorización
+Las tareas se encuentran en los Issues del repocitorio.
