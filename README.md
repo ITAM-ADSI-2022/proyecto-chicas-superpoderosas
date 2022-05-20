@@ -1,5 +1,7 @@
 # Proyecto: Chicas Superpoderosas y Mojo Jojo
 
+URL al entregable final: https://www.cafeitam.com/
+
 Repositorio con los archivos del proyecto para la materia de Análisis y Diseño de Sistemas de Información
 
 ## Integrantes
@@ -23,3 +25,6 @@ El segundo entregable se encuentra en la carpeta `entregable-prototipo/`. Los ar
 
 ## Entregable 3: Backlog y Priorización
 Las tareas se encuentran en los issues del repositorio. Son las tareas que seguimos para la creación del prototipo de la página web y de la aplicación.
+
+## Entregable final
+Se encuentra en la carpeta de Proyecto Final. Ahí se pueden consultar las instrucciones a seguir si se quiere probar el proyecto.
