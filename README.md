@@ -17,4 +17,4 @@ Todos los archivos del primer entregable se encuentran en la carpeta `entregable
 - `persona-3.png`: Imagen de Mojojojo
 
 ## Entregable 2: Prototipos y Usability Testing
-Todos los archivos del segundo entregable se encuentran en la carpeta `entregables-ux/`. Los archivos son:
+Todos los archivos del segundo entregable se encuentran en la carpeta `entregable-prototipo/`. Los archivos son:
