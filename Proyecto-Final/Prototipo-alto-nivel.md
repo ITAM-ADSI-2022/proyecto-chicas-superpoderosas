@@ -19,3 +19,6 @@ Para editar el menú de la cafetería, hay que hacer lo siguiente:
 
 ## La aplicación
 Para probar la aplicación, se puede descargar la aplicación [Dine by Wix](https://www.dinebywix.com/) en el celular, iniciar sesión con la misma cuenta que arriba y entonces se accede a la parte del restaurante. Para más información, véase el video que se subió al repositorio como tutorial.
+
+## Demos: videos
+Para acceder a los videos y ver mejor cómo acceder a la aplicación, haga click [aquí](https://1drv.ms/u/s!Agewv5mQU9KPi_Q2NtyUrJsdVsSreg?e=uj8qd0).
